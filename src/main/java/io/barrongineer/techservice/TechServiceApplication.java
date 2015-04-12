@@ -9,9 +9,9 @@ import org.springframework.cloud.security.oauth2.resource.EnableOAuth2Resource;
  */
 @SpringBootApplication
 @EnableOAuth2Resource
-public class Application {
+public class TechServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(TechServiceApplication.class, args);
     }
 }
