@@ -1,5 +1,6 @@
 # tech-service
 
+What it is:
 - Architecture proof of concept.
 - Web service built on Java 8, Spring Boot, and Gradle.
 - Data access via HSQL and Spring Data JPA.
