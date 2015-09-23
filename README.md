@@ -6,9 +6,4 @@ What it is:
 - Data access via [HyperSQL](http://hsqldb.org/) and [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
 - Authentication provided by [oauth-service](https://github.com/shaunnbarron/oauth-service)
 - Discoverable service via [eureka-server](https://github.com/shaunnbarron/eureka-server)
-
-Todo:
-- Unit testing
 - Configuration via [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/)
-
-
